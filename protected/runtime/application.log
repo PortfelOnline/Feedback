@@ -1,0 +1,34 @@
+2016/11/09 00:20:53 [warning] [application] Не удалось присвоить небезопасный атрибут "body" класса "Message".
+in C:\Program Files\Apache Software Foundation\Apache2.2\domains\git\htdocs\protected\controllers\SiteController.php (24)
+in C:\Program Files\Apache Software Foundation\Apache2.2\domains\git\htdocs\index.php (13)
+2016/11/09 00:21:14 [warning] [application] Не удалось присвоить небезопасный атрибут "body" класса "Message".
+in C:\Program Files\Apache Software Foundation\Apache2.2\domains\git\htdocs\protected\controllers\SiteController.php (24)
+in C:\Program Files\Apache Software Foundation\Apache2.2\domains\git\htdocs\index.php (13)
+2016/11/09 00:22:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/bootstrap.min.css.map".' in C:\Program Files\Apache Software Foundation\Apache2.2\domains\git\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files\Apache Software Foundation\Apache2.2\domains\git\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 C:\Program Files\Apache Software Foundation\Apache2.2\domains\git\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\Program Files\Apache Software Foundation\Apache2.2\domains\git\htdocs\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/bootstrap.min.css.map
+---
+2016/11/09 00:23:19 [warning] [application] Не удалось присвоить небезопасный атрибут "body" класса "Message".
+in C:\Program Files\Apache Software Foundation\Apache2.2\domains\git\htdocs\protected\controllers\SiteController.php (24)
+in C:\Program Files\Apache Software Foundation\Apache2.2\domains\git\htdocs\index.php (13)
+2016/11/09 00:23:30 [warning] [application] Не удалось присвоить небезопасный атрибут "body" класса "Message".
+in C:\Program Files\Apache Software Foundation\Apache2.2\domains\git\htdocs\protected\controllers\SiteController.php (24)
+in C:\Program Files\Apache Software Foundation\Apache2.2\domains\git\htdocs\index.php (13)
+2016/11/09 00:36:06 [warning] [application] Не удалось присвоить небезопасный атрибут "body" класса "Message".
+in C:\Program Files\Apache Software Foundation\Apache2.2\domains\git\htdocs\protected\controllers\SiteController.php (28)
+in C:\Program Files\Apache Software Foundation\Apache2.2\domains\git\htdocs\index.php (13)
+2016/11/09 00:36:19 [warning] [application] Не удалось присвоить небезопасный атрибут "body" класса "Message".
+in C:\Program Files\Apache Software Foundation\Apache2.2\domains\git\htdocs\protected\controllers\SiteController.php (28)
+in C:\Program Files\Apache Software Foundation\Apache2.2\domains\git\htdocs\index.php (13)
+2016/11/09 00:36:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "css/bootstrap.min.css.map".' in C:\Program Files\Apache Software Foundation\Apache2.2\domains\git\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\Program Files\Apache Software Foundation\Apache2.2\domains\git\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 C:\Program Files\Apache Software Foundation\Apache2.2\domains\git\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\Program Files\Apache Software Foundation\Apache2.2\domains\git\htdocs\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/bootstrap.min.css.map
+---
