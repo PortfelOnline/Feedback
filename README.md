@@ -12,9 +12,7 @@ CREATE TABLE `pf_message` (
   
   `body` text,
   
-  PRIMARY KEY (`id`)
-  
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+  PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 =================================================
 
 настроить базу данных в файле
